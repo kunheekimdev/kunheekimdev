@@ -7,4 +7,3 @@
   
 ### 🛠 Contact 🛠
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kunheekimtech.github.io/)](https://kunheekimtech.github.io/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={2002tony})](https://solved.ac/{2002tony})
