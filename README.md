@@ -1,7 +1,4 @@
-<center>
-  
-  
-### Hi there 👋
+<center> ### Hi there 👋 </center>  
 
 ![Kunhee Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunheekimdev&show_icons=true&theme=tokyonight)
 
@@ -20,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  
-</center>  
+ 
