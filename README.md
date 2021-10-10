@@ -1,6 +1,6 @@
 <h3 align="center">
   
-Hi there 👋
+Hi There 👋
 
 ![Kunhee Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunheekimdev&show_icons=true&theme=tokyonight)
   
