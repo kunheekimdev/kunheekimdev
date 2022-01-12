@@ -1,7 +1,19 @@
 <h3 align="center">
   
-Hi There 👋
+# Hi There! 👋
 
+I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Defense.
+
+## 🔮 My current interests are...
+
+-Frontend Web Development based on ReactJS
+  
+-Algorithms, Data Structures, and Problem Solving based on C++
+
+-Machine Learning
+  
+
+  
 ![Kunhee Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunheekimkr&show_icons=true&theme=tokyonight)
   
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=2002tony">
