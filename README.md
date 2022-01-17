@@ -6,12 +6,12 @@ I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Def
 
 ## 🔮 My current interests are...
 
-- Frontend Web Development based on ReactJS
-  
 - Algorithms, Data Structures, and Problem Solving based on C++
 
 - Machine Learning
 
+- Frontend Web Development based on ReactJS
+    
 ## 🔥
   
 <p align="center">  
