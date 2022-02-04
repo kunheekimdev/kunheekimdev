@@ -27,10 +27,6 @@ I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Def
     <img src="https://cf.leed.at?id=kunheekim">
   </p>
   
-  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kunheekimkr/competition/light)
-  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kunheekimkr/dataset/light)
-  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kunheekimkr/notebook/light)
-  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kunheekimkr/discussion/light)
    <p align="center">    
      <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kunheekimkr/competition/light">
      <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kunheekimkr/dataset/light">
