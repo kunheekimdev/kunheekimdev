@@ -8,7 +8,7 @@ I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Def
 
 - Algorithms, Data Structures, and Problem Solving based on C++
 
-- Machine Learning
+- Machine Learning / Deep Learning
 
 - Frontend Web Development based on ReactJS
     
