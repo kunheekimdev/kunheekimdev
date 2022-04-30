@@ -10,7 +10,7 @@ I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Def
 
 - Machine Learning / Deep Learning
 
-- Frontend Web Development based on ReactJS
+- Frontend Web Development based on ReactJS / NextJS
     
 ## 🔥
   
