@@ -6,11 +6,11 @@ I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Def
 
 ## 🔮 My current interests are...
 
-- Algorithms, Data Structures, and Problem Solving based on C++
-
-- Machine Learning / Deep Learning
+- Machine Learning / Deep Learning & MLOps
 
 - Frontend Web Development based on ReactJS / NextJS
+  
+- Hybrid App Development with Flutter
     
 ## 🔥
   
