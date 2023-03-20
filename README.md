@@ -8,11 +8,9 @@ Contact: ✉️ kunheekim@korea.ac.kr
 
 ## 🔮 My current interests are...
 
-- Machine Learning / Deep Learning & MLOps
+- DevOps
 
-- Frontend Web Development based on ReactJS / NextJS
-  
-- Hybrid App Development with Flutter
+- Backend Development based on Spring Framework
     
 ## 🔥
 
