@@ -5,12 +5,6 @@
 I am Kunhee Kim, an undergraduate student at Korea University studying Cyber Defense.
 
 Contact: ✉️ kunheekim@korea.ac.kr
-
-## 🔮 My current interests are...
-
-- DevOps
-
-- Backend Development based on Spring Framework
     
 ## 🔥
 
